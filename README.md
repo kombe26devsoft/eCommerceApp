@@ -79,7 +79,7 @@ eCommerceApp is a cross-platform e-commerce demo app built with React Native, Ex
    ![Responsive Web half width - 1 column](./screenshots/web-low-width.png)
    ![Responsive Mobile](./screenshots/list.png)
 - **Deep Link Demo**: _Open product details via deep link_
-   ![Deep Link mobile](./screenshots/deeplink.gif)
-   ![Deep Link mobile](./screenshots/deeplink1.gif)
-   ![Deep Link mobile](./screenshots/deeplink2.gif)
-   ![Deep Link web](./screenshots/deeplink-web.gif)
+   ![Deep Link mobile](./screenshots/deeplink.png)
+   ![Deep Link mobile](./screenshots/deeplink1.png)
+   ![Deep Link mobile](./screenshots/deeplink2.png)
+   ![Deep Link web](./screenshots/deeplink-web.png)
